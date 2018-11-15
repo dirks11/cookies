@@ -2,3 +2,6 @@ Ingredient for choclate chip:
 flour
 eggs
 brown sugar
+butter
+milk
+choolate chips
